@@ -3,7 +3,7 @@ using System.Windows.Forms;
 
 namespace BackupLocalData
 {
-    static class Program
+    static class MainProgram
     {
         /// <summary>
         /// Simple Backup of local data
@@ -13,7 +13,7 @@ namespace BackupLocalData
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new BackupForm());
         }
     }
 }

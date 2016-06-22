@@ -1,6 +1,6 @@
 ﻿namespace BackupLocalData
 {
-    partial class Form1
+    partial class BackupForm
     {
         /// <summary>
         /// Required designer variable.
@@ -32,6 +32,9 @@
             this.lblTarget = new System.Windows.Forms.Label();
             this.textBoxSource = new System.Windows.Forms.TextBox();
             this.textBoxTarget = new System.Windows.Forms.TextBox();
+            this.btnBrowseSource = new System.Windows.Forms.Button();
+            this.btnBrowseTarget = new System.Windows.Forms.Button();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.SuspendLayout();
             // 
             // lblSource
@@ -66,16 +69,44 @@
             this.textBoxTarget.Size = new System.Drawing.Size(350, 20);
             this.textBoxTarget.TabIndex = 3;
             // 
-            // Form1
+            // btnBrowseSource
+            // 
+            this.btnBrowseSource.Location = new System.Drawing.Point(440, 4);
+            this.btnBrowseSource.Name = "btnBrowseSource";
+            this.btnBrowseSource.Size = new System.Drawing.Size(75, 23);
+            this.btnBrowseSource.TabIndex = 4;
+            this.btnBrowseSource.Text = "Browse";
+            this.btnBrowseSource.UseVisualStyleBackColor = true;
+            // 
+            // btnBrowseTarget
+            // 
+            this.btnBrowseTarget.Location = new System.Drawing.Point(440, 33);
+            this.btnBrowseTarget.Name = "btnBrowseTarget";
+            this.btnBrowseTarget.Size = new System.Drawing.Size(75, 23);
+            this.btnBrowseTarget.TabIndex = 5;
+            this.btnBrowseTarget.Text = "Browse";
+            this.btnBrowseTarget.UseVisualStyleBackColor = true;
+            // 
+            // progressBar1
+            // 
+            this.progressBar1.Location = new System.Drawing.Point(84, 75);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(350, 23);
+            this.progressBar1.TabIndex = 6;
+            // 
+            // BackupForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(551, 173);
+            this.ClientSize = new System.Drawing.Size(529, 110);
+            this.Controls.Add(this.progressBar1);
+            this.Controls.Add(this.btnBrowseTarget);
+            this.Controls.Add(this.btnBrowseSource);
             this.Controls.Add(this.textBoxTarget);
             this.Controls.Add(this.textBoxSource);
             this.Controls.Add(this.lblTarget);
             this.Controls.Add(this.lblSource);
-            this.Name = "Form1";
+            this.Name = "BackupForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -88,6 +119,9 @@
         private System.Windows.Forms.Label lblTarget;
         private System.Windows.Forms.TextBox textBoxSource;
         private System.Windows.Forms.TextBox textBoxTarget;
+        private System.Windows.Forms.Button btnBrowseSource;
+        private System.Windows.Forms.Button btnBrowseTarget;
+        private System.Windows.Forms.ProgressBar progressBar1;
     }
 }
 
