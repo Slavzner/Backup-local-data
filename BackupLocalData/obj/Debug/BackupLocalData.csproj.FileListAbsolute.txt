@@ -1,2 +1,10 @@
 c:\users\arioch\documents\visual studio 2015\Projects\BackupLocalData\BackupLocalData\bin\Debug\BackupLocalData.exe.config
 C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\bin\Debug\BackupLocalData.exe.config
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\bin\Debug\BackupLocalData.exe
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\bin\Debug\BackupLocalData.pdb
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\obj\Debug\BackupLocalData.csprojResolveAssemblyReference.cache
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\obj\Debug\BackupLocalData.BackupForm.resources
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\obj\Debug\BackupLocalData.Properties.Resources.resources
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\obj\Debug\BackupLocalData.csproj.GenerateResource.Cache
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\obj\Debug\BackupLocalData.exe
+C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\obj\Debug\BackupLocalData.pdb

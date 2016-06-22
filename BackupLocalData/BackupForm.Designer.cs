@@ -107,7 +107,8 @@
             this.Controls.Add(this.lblTarget);
             this.Controls.Add(this.lblSource);
             this.Name = "BackupForm";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Backup v0.1";
             this.ResumeLayout(false);
             this.PerformLayout();
 
