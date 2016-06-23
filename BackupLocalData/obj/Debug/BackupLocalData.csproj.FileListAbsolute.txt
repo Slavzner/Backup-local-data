@@ -1,2 +1,3 @@
 c:\users\arioch\documents\visual studio 2015\Projects\BackupLocalData\BackupLocalData\bin\Debug\BackupLocalData.exe.config
 C:\Users\Arioch\Documents\Visual Studio 2015\Projects\BackupLocalData\Backup-local-data.git\BackupLocalData\bin\Debug\BackupLocalData.exe.config
+E:\Documents\CSharp Projects\BackupLocalData\bin\Debug\BackupLocalData.exe.config
