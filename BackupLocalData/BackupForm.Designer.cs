@@ -77,6 +77,7 @@
             this.btnBrowseSource.TabIndex = 4;
             this.btnBrowseSource.Text = "Browse";
             this.btnBrowseSource.UseVisualStyleBackColor = true;
+            this.btnBrowseSource.Click += new System.EventHandler(this.btnBrowseSource_Click);
             // 
             // btnBrowseTarget
             // 
